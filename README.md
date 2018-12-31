@@ -1,3 +1,5 @@
+## social network "D-CORE" (Developers core)
+
 ## Available Scripts
 
 In the project directory, you can run:
